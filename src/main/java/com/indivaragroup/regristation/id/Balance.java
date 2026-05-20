@@ -1,4 +1,4 @@
-package org.example.regristation.id;
+package com.indivaragroup.regristation.id;
 
 public class Balance {
 

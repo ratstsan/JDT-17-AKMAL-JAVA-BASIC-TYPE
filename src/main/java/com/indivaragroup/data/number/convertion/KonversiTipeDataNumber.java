@@ -1,4 +1,4 @@
-package org.example.data.number.convertion;
+package com.indivaragroup.data.number.convertion;
 
 public class KonversiTipeDataNumber {
 

@@ -1,4 +1,4 @@
-package org.example.student.score;
+package com.indivaragroup.student.score;
 
 public class StudentScore {
 

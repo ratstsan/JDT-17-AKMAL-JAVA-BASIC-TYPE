@@ -1,4 +1,4 @@
-package org.example;
+package com.indivaragroup.movie;
 
 import java.util.ArrayList;
 

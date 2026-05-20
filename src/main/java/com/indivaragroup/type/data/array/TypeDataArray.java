@@ -1,4 +1,4 @@
-package org.example.type.data.array;
+package com.indivaragroup.type.data.array;
 
 public class TypeDataArray {
     public void getTypeDataArray() {

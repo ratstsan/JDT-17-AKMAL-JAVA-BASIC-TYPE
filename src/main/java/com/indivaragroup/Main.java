@@ -1,10 +1,11 @@
-package org.example;
-import org.example.type.data.array.TypeDataArray;
-import org.example.regristation.id.Balance;
-import org.example.student.score.StudentScore;
-import org.example.data.number.convertion.KonversiTipeDataNumber;
-import org.example.primitive.PrimitiveData;
-import org.example.ceramic.Ceramic;
+package com.indivaragroup;
+import com.indivaragroup.movie.FavoriteVideo;
+import com.indivaragroup.type.data.array.TypeDataArray;
+import com.indivaragroup.regristation.id.Balance;
+import com.indivaragroup.student.score.StudentScore;
+import com.indivaragroup.data.number.convertion.KonversiTipeDataNumber;
+import com.indivaragroup.primitive.PrimitiveData;
+import com.indivaragroup.house.floor.logic.CeramicCheck;
 
 
 public class Main {
@@ -18,7 +19,7 @@ public class Main {
         //favorite list video AV
 
         System.out.println("nomor 1 --------------");
-        Ceramic program = new Ceramic();
+        CeramicCheck program = new CeramicCheck();
         program.checkCeramic();
         System.out.println("nomor 2 --------------");
         Balance program2 = new Balance();
@@ -36,7 +37,7 @@ public class Main {
         TypeDataArray program6 = new TypeDataArray();
         program6.getTypeDataArray();
         System.out.println("nomor 7 --------------");
-        org.example.FavoriteVideo program7 = new org.example.FavoriteVideo();
+        FavoriteVideo program7 = new FavoriteVideo();
         program7.getMovies();
 
     }

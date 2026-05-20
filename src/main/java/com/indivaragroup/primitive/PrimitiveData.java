@@ -1,4 +1,4 @@
-package org.example.primitive;
+package com.indivaragroup.primitive;
 
 public class PrimitiveData {
     public void getPrimitive(){
